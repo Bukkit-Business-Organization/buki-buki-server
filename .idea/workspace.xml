@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce3e830a-ea34-426a-b3e9-411158f3d0d2" name="변경" comment="" />
+    <list default="true" id="09aa4e09-b7d0-43f2-9db9-bc31b8d01ef0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,30 +20,69 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2MA4envr4x866umpdi0oBmqY11J" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MA9c3vVfToG0GOmM9ZpI86L513" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/psw48/Desktop/buki buki/buki-buki-client",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "spring.configuration.checksum": "70781ebe2b889bc9671b4be73fc69397",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\psw48\Desktop\buki buki\buki-buki-server" />
+      <recent name="C:\Users\psw48\Desktop\buki buki\buki-buki-server\.idea" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BukiBukiServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="buki-buki-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bukibuki.bukibukiserver.BukiBukiServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="디폴트 작업">
-      <changelist id="ce3e830a-ea34-426a-b3e9-411158f3d0d2" name="변경" comment="" />
-      <created>1677197158113</created>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09aa4e09-b7d0-43f2-9db9-bc31b8d01ef0" name="Changes" comment="" />
+      <created>1677199596007</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1677197158113</updated>
-      <workItem from="1677197170303" duration="524000" />
+      <updated>1677199596007</updated>
+      <workItem from="1677199597116" duration="415000" />
+      <workItem from="1677200033514" duration="829000" />
+      <workItem from="1677200899799" duration="1366000" />
+      <workItem from="1677202299155" duration="2320000" />
+      <workItem from="1677208494140" duration="1189000" />
     </task>
     <servers />
   </component>
